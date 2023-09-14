@@ -50,7 +50,7 @@ flutter:
     - images1/dice2.png
     - images1/dice3.png
     - images1/dice4.png
-    - images1/dice5.jpeg
+    - images1/dice5.png
     - images1/dice6.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
